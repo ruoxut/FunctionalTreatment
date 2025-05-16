@@ -1,5 +1,5 @@
 %% Code to reproduce the simulation results of the FSW, OR, DR and FLR in Tan et al. (2025).
-% Reference: Tan R., Zhang Z., Huang W. and Yin G. (2025). Causal effect of
+% Reference: Tan R., Huang W., Zhang Z. and Yin G. (2025). Causal effect of
 % functional treatment. Journal of Machine Learning Research, 26, 1--39.
 % Matlab version: R2023b.
 
